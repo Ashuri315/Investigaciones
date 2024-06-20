@@ -11,6 +11,9 @@ body{
 main{
     margin: 4rem;
 }
+aside{
+    margin: 4rem;
+}
 h1{
     text-align: center;
     background-color: rgb(239, 197, 142);
@@ -34,4 +37,9 @@ nav a{
 }
 nav a:hover{
     background-color: rgb(239, 197, 142);
+}
+img{
+    width: 80%;
+    display: block;
+    margin: auto;
 }
